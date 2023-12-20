@@ -3,4 +3,6 @@
 
 Due to this is a new area about Large Language Model's inference accerleration, we are open to any advice for improving our work.
 
+Redirect: https://github.com/ZeroNLP/ConsistentEE
+
 
